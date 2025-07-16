@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://soumyajit.vercel.app/" target="_blank">arvindpatnaik7.tech</a>
 </h2>
 
 
@@ -25,7 +25,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/arvindpatnaik7/Portfolio1). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Arvind patnaik7](https://github.com/arvindpatnaik7/Portfolio1). Thanks!
 
 ## Built With
 
